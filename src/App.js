@@ -12,6 +12,7 @@ import IncrementButton from "./demos/states/custom-increment";
 function App() {
   return (
     <main>
+      <h1>Welcome! 👋👋</h1>
 
       <h2>Custom Increment</h2>
 
